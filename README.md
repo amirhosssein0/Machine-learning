@@ -53,31 +53,6 @@ Outcome	1 if the patient has diabetes, 0 if not
     Matplotlib & Seaborn: For data visualization and plotting.
 
     Jupyter Notebook (Optional): For exploratory data analysis.
-
-🤝 Contributing
-
-We welcome contributions! Here’s how you can contribute:
-
-    Fork the repository to your own GitHub account.
-
-    Clone your fork locally:
-
-git clone https://github.com/your-username/Machine-learning.git
-
-Create a new branch for your feature:
-
-git checkout -b feature-name
-
-Make changes, then commit:
-
-git commit -m "Add new feature"
-
-Push your changes:
-
-    git push origin feature-name
-
-    Create a Pull Request (PR) with a description of what you've added or changed.
-
 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
